@@ -1,0 +1,7 @@
+node_modules
+dist
+.nyc_output
+coverage
+.env
+src/config/test.json
+src/config/config.example.js
