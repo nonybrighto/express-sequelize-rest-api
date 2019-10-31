@@ -48,7 +48,7 @@
     "passport-local": "^1.0.0",
     "path": "^0.12.7",
     "save-dev": "^2.0.0",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
