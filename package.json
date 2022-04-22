@@ -40,7 +40,7 @@
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
     "mysql2": "^1.6.5",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "passport": "^0.4.0",
     "passport-facebook-token": "^3.3.0",
     "passport-google-id-token": "^0.4.6",
